@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AdminTareas/static/css/main.b1101037.chunk.css",
-    "main.js": "/AdminTareas/static/js/main.7b83fa9c.chunk.js",
-    "main.js.map": "/AdminTareas/static/js/main.7b83fa9c.chunk.js.map",
+    "main.js": "/AdminTareas/static/js/main.64e03b04.chunk.js",
+    "main.js.map": "/AdminTareas/static/js/main.64e03b04.chunk.js.map",
     "runtime-main.js": "/AdminTareas/static/js/runtime-main.1e1f0ba0.js",
     "runtime-main.js.map": "/AdminTareas/static/js/runtime-main.1e1f0ba0.js.map",
     "static/js/2.63ad17e0.chunk.js": "/AdminTareas/static/js/2.63ad17e0.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1e1f0ba0.js",
     "static/js/2.63ad17e0.chunk.js",
     "static/css/main.b1101037.chunk.css",
-    "static/js/main.7b83fa9c.chunk.js"
+    "static/js/main.64e03b04.chunk.js"
   ]
 }
